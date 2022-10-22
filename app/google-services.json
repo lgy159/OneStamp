@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917076372275",
+    "firebase_url": "https://onestamp-786b7-default-rtdb.firebaseio.com",
+    "project_id": "onestamp-786b7",
+    "storage_bucket": "onestamp-786b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917076372275:android:0961aa543e309c98b46c46",
+        "android_client_info": {
+          "package_name": "com.example.onestamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917076372275-r6g3eq56n3a9h3hmo80rk24a8c8bb79e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSMtYWPP95xWlFqK7144M_-uvvAXf4cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917076372275-r6g3eq56n3a9h3hmo80rk24a8c8bb79e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

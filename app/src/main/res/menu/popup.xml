@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile_change"
+        android:title="비밀번호 변경" />
+    <item android:id="@+id/register_store"
+        android:title="매장 등록 및 수정(사장님만)" />
+    <item android:id="@+id/accumulate"
+        android:title="적립하기(사장님만)" />
+    <item android:id="@+id/logout"
+        android:title="로그아웃" />
+
+</menu>
